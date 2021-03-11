@@ -23,6 +23,9 @@ Biblioteca para interação de Voz para Texto ou de Texto para Voz</br>
     - ![falag(falaragora)](https://github.com/geniodev/VozTexto#texto-para-voz)</br>
 
 
+
+<a href="https://github.com/geniodev/VozTexto#voz-para-texto" target="_self">Testeeee</a>
+
 &nbsp;
 &nbsp;
 <h1 id="install">Bibliotecas Instalar</h1></br>
