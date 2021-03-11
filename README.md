@@ -12,8 +12,6 @@ Biblioteca para interação de Voz para Texto ou de Texto para Voz</br>
 &nbsp;
 <h1 id="install">Bibliotecas Instalar</h1></br>
 
-&nbsp;
-&nbsp;
 ```bash
 pip install SpeechRecognition
 pip install pyttsx3
