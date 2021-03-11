@@ -8,20 +8,19 @@ Biblioteca para interação de Voz para Texto ou de Texto para Voz</br>
 &nbsp;
 &nbsp;
 **Índices**
-- ![Inicio](https://github.com/geniodev/VozTexto#voztexto)</br>
-- <a href="https://github.com/geniodev/VozTexto#voz-para-texto" target="_self">Testeeee</a>
-- ![Bibliotecas Install](https://github.com/geniodev/VozTexto#bibliotecas-instalar)</br>
-- ![Documetancao](https://github.com/geniodev/VozTexto#documenta%C3%A7%C3%A3o---f%C3%B3rmulas)</br>
-  - ![Remove acentos das strings inseridas no 'txt'](https://github.com/geniodev/VozTexto#remove-acentos-das-strings-inseridas-no-txt)</br>
-    - ![remover_acentos(txt)](https://github.com/geniodev/VozTexto#remove-acentos-das-strings-inseridas-no-txt)</br>
-  - ![Ouvi a fala de voz e retorna o texto sem acentos](https://github.com/geniodev/VozTexto#ouvi-a-fala-de-voz-e-retorna-o-texto-sem-acentos)</br>
-    - ![ListenWorkd()](https://github.com/geniodev/VozTexto#ouvi-a-fala-de-voz-e-retorna-o-texto-sem-acentos)</br>
-  - ![Fala a hora Atual e minutos](https://github.com/geniodev/VozTexto#fala-a-hora-atual-e-minutos)</br>
-    - ![Falarhora()](https://github.com/geniodev/VozTexto#fala-a-hora-atual-e-minutos)</br>
-  - ![Voz para Texto](https://github.com/geniodev/VozTexto#voz-para-texto)</br>
-    - ![OuvirFala()](https://github.com/geniodev/VozTexto#voz-para-texto)</br>
-  - ![Texto para Voz](https://github.com/geniodev/VozTexto#texto-para-voz)</br>
-    - ![falag(falaragora)](https://github.com/geniodev/VozTexto#texto-para-voz)</br>
+- <a href="https://github.com/geniodev/VozTexto#voz-para-texto" target="_self">Inicio</a>
+- <a href='https://github.com/geniodev/VozTexto#bibliotecas-instalar' target='_self'>Bibliotecas Install</a>
+- <a href='https://github.com/geniodev/VozTexto#documenta%C3%A7%C3%A3o---f%C3%B3rmulas' target='_self'>Documentação</a>
+  - <a href='https://github.com/geniodev/VozTexto#remove-acentos-das-strings-inseridas-no-txt' target='_self'>Remove acentos das strings inseridas no 'txt'</a>
+    - <a href='txt' target='_self'>remover_acentos(txt)</a>
+  - <a href='https://github.com/geniodev/VozTexto#ouvi-a-fala-de-voz-e-retorna-o-texto-sem-acentos' target='_self'>Ouvi a fala de voz e retorna o texto sem acentos</a>
+    - <a href='' target='_self'>ListenWorkd()</a>
+  - <a href='https://github.com/geniodev/VozTexto#fala-a-hora-atual-e-minutos' target='_self'>Fala a hora Atual e minutos</a>
+    - <a href='' target='_self'>Falarhora()</a>
+  - <a href='https://github.com/geniodev/VozTexto#voz-para-texto' target='_self'>Voz para Texto</a>
+    - <a href='' target='_self'>OuvirFala()</a>
+  - <a href='https://github.com/geniodev/VozTexto#texto-para-voz' target='_self'>Texto para Voz</a>
+    - <a href='falaragora' target='_self'>falag(falaragora)</a>
 
 
 
