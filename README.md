@@ -72,6 +72,6 @@ Ouvi a Fala e retorna o que foi dito em textos sem acentos e em letras minúscul
 
 
 &nbsp;
+<h6 align="center">Desenvolvedor: RA (Ricardo Andrade)</h6>
 &nbsp;
-<h6 align="center">Desenvolvedor: RA (Ricardo Andrade)</h6></br>
 <h6 align="center">Versão: 3.0.0 Final</h6>
