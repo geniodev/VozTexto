@@ -23,30 +23,30 @@ pip install PyAudio
 # Documentação - Fórmulas:
 &nbsp;
 #### remove acentos das strings inseridas no 'txt'
-> ###### `python
+> `python
 remover_acentos(txt)
 `
 
 #### Ouvi a fala de voz e retorna o texto sem acentos
-```python
+> `python
 ListenWorkd()
-```
+`
 
 #### Fala a hora Atual e minutos
-```python
+> `python
 Falarhora()
-```
+`
 #### Voz para Texto
 Ouvi a Fala e retorna o que foi dito em textos sem acentos e em letras minúsculas
-*```python
+> `python
 OuvirFala()
-```*
+`
 #### Texto para Voz
 **Cria uma fala usando texto digitado.**
 **falaragora: Texto a ser falado STR**
-> ```python
+> `python
 falag(falaragora)
-```
+`
 <h1>Heading level 1</h1>
 
 - Alguma coisa
