@@ -14,12 +14,12 @@ Biblioteca para interação de Voz para Texto ou de Texto para Voz</br>
 
 &nbsp;
 &nbsp;
-`bash
+```bash
 pip install SpeechRecognition
 pip install pyttsx3
 pip install gTTS
 pip install playsound
-`
+```
 
 *Padrões, mas caso não tenha, deve instalar*
 ```bash
