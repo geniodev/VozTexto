@@ -22,7 +22,7 @@ pip install PyAudio
 ```
 # Documentação - Fórmulas:
 &nbsp;
-**#### remove acentos das strings inseridas no 'txt'**
+**Remove acentos das strings inseridas no 'txt'**
 > `python
 remover_acentos(txt)
 `
