@@ -70,25 +70,9 @@ Ouvi a Fala e retorna o que foi dito em textos sem acentos e em letras minúscul
 > `falag(falaragora)`
 
 
-<h1>Heading level 1</h1>
-
-- Alguma coisa
-  - teste []()
-    - teste
-
-
-
-
-
-**Índices**
-
-[TOCM]
-
-[TOC]
-
-
 
 &nbsp;
 &nbsp;
 Desenvolvedor: RA (Ricardo Andrade)
+&nbsp;
 Versão: 3.0.0 Final
