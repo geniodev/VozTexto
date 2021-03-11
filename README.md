@@ -31,20 +31,20 @@ pip install PyAudio
 &nbsp;
 # Documentação - Fórmulas:</br>
 
-<h4 id="removeacento">Remove acentos das strings inseridas no 'txt'</h4>
+#### Remove acentos das strings inseridas no 'txt'
 > `remover_acentos(txt)`
 
-<h4 id="voztexto">Ouvi a fala de voz e retorna o texto sem acentos</h4>
+#### Ouvi a fala de voz e retorna o texto sem acentos
 `ListenWorkd()`
 
-<h4 id="falarhora">Fala a hora Atual e minutos</h4>
+#### Fala a hora Atual e minutos
 `Falarhora()`
 
-<h4 id="ouvirfala">Voz para Texto</h4>
+#### Voz para Texto
 Ouvi a Fala e retorna o que foi dito em textos sem acentos e em letras minúsculas
 `OuvirFala()`
 
-<h4 id="textofala">Texto para Voz</h4>
+#### Texto para Voz
 ###### Cria uma fala usando texto digitado.
 ###### falaragora: Texto a ser falado STR
 `falag(falaragora)`
