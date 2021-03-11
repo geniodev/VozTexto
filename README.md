@@ -31,10 +31,10 @@ pip install PyAudio
 &nbsp;
 <h1 id="formulas">Documentação - Fórmulas:</h1></br>
 
-<h4 id="removeacento">Remove acentos das strings inseridas no 'txt'</h4>
-> ```remover_acentos(txt)```
-
-
+<h4 id="removeacento">Remove acentos das strings inseridas no 'txt'</h4></br>
+```python
+remover_acentos(txt)`
+```
 <h4 id="voztexto">Ouvi a fala de voz e retorna o texto sem acentos</h4>
 > `ListenWorkd()`
 
