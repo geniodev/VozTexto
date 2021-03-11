@@ -29,7 +29,7 @@ pip install unicodedata
 pip install PyAudio
 ```
 &nbsp;
-<h1 id="formulas">Documentação - Fórmulas:</h1></br>
+# Documentação - Fórmulas:</br>
 
 <h4 id="removeacento">Remove acentos das strings inseridas no 'txt'</h4>
 > `remover_acentos(txt)`
