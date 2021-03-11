@@ -37,20 +37,18 @@ pip install PyAudio
 > `ListenWorkd()`
 
 #### Fala a hora Atual e minutos
-> `python
-Falarhora()
-`
+> `Falarhora()`
+
 #### Voz para Texto
 Ouvi a Fala e retorna o que foi dito em textos sem acentos e em letras minúsculas
-> `python
-OuvirFala()
-`
+> `OuvirFala()`
+
 #### Texto para Voz
 **Cria uma fala usando texto digitado.**
 **falaragora: Texto a ser falado STR**
-> `python
-falag(falaragora)
-`
+> `falag(falaragora)`
+
+
 <h1>Heading level 1</h1>
 
 - Alguma coisa
