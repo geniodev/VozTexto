@@ -1,10 +1,17 @@
 # VozTexto
-![](https://github.com/geniodev/VozTexto/blob/main/speech.png?raw=true)
+![](https://github.com/geniodev/VozTexto/blob/main/speech.png?raw=true)</br>
 &nbsp;
-*Voz para Texto, Texto para Voz Usando Google Speech*
+*Voz para Texto, Texto para Voz Usando Google Speech*</br>
 &nbsp;
-Biblioteca para interação de Voz para Texto ou de Texto para Voz
+Biblioteca para interação de Voz para Texto ou de Texto para Voz</br>
+
+
+
+
+&nbsp;
+&nbsp;
 *Bibliotecas Instalar*
+&nbsp;
 ```bash
 pip install SpeechRecognition
 pip install pyttsx3
@@ -20,9 +27,9 @@ pip install unicodedata
 ```bash
 pip install PyAudio
 ```
-# Documentação - Fórmulas:
+# Documentação - Fórmulas:</br>
 &nbsp;
-*Remove acentos das strings inseridas no 'txt'*
+#### Remove acentos das strings inseridas no 'txt'
 > `python
 remover_acentos(txt)
 `
