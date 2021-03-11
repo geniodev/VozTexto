@@ -43,7 +43,7 @@ Ouvi a Fala e retorna o que foi dito em textos sem acentos e em letras minúscul
 > ###### `falag(falaragora)`
 
 
-
+<h1 id="final"> FINAL</h1>
 
 
 **Índices**
