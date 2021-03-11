@@ -10,14 +10,17 @@ Biblioteca para interação de Voz para Texto ou de Texto para Voz</br>
 
 &nbsp;
 &nbsp;
-<h1 id="install">Bibliotecas Instalar</h1>
+<h1 id="install">Bibliotecas Instalar</h1></br>
+
 &nbsp;
-```bash
+&nbsp;
+`bash
 pip install SpeechRecognition
 pip install pyttsx3
 pip install gTTS
 pip install playsound
-```
+`
+
 *Padrões, mas caso não tenha, deve instalar*
 ```bash
 pip install DateTime
