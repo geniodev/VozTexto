@@ -1,22 +1,22 @@
 # VozTexto
 ![](https://github.com/geniodev/VozTexto/blob/main/speech.png?raw=true)
 &nbsp;
-**Voz para Texto, Texto para Voz Usando Google Speech**
+**Voz para Texto, Texto para Voz Usando Google Speech**;
 &nbsp;
-Biblioteca para interaÁ„o de Voz para Texto ou de Texto para Voz
+Biblioteca para intera√ß√£o de Voz para Texto ou de Texto para Voz;
 
 ###Bibliotecas Instalar
 `pip install SpeechRecognition`
 `pip install pyttsx3`
 `pip install gTTS`
 `pip install playsound`
-**Padrıes, mas caso n„o tenha, deve instalar**
+**Padr√µes, mas caso n√£o tenha, deve instalar**
 `pip install DateTime`
 `pip install unicodedata`
-**Somente para vers„o 3.5/3.6, sem ele os audios n„o funcionam, È necess·rio instalar esta biblioteca abaixo.**
+**Somente para vers√£o 3.5/3.6, sem ele os audios n√£o funcionam, √© necess√°rio instalar esta biblioteca abaixo.**
 `pip install PyAudio`
 
-# DocumentaÁ„o - FÛrmulas:
+# Documenta√ß√£o - F√≥rmulas:
 &nbsp;
 #### remove acentos das strings inseridas no 'txt'
 > ######  `remover_acentos(txt)`
@@ -33,7 +33,7 @@ Biblioteca para interaÁ„o de Voz para Texto ou de Texto para Voz
 
 &nbsp;
 #### Voz para Texto
-Ouvi a Fala e retorna o que foi dito em textos sem acentos e em letras min˙sculas
+Ouvi a Fala e retorna o que foi dito em textos sem acentos e em letras min√∫sculas
 > ###### `OuvirFala()`
 
 &nbsp;
@@ -46,7 +46,7 @@ Ouvi a Fala e retorna o que foi dito em textos sem acentos e em letras min˙scula
 
 
 
-**Õndices**
+**√çndices**
 
 [TOCM]
 
@@ -57,4 +57,4 @@ Ouvi a Fala e retorna o que foi dito em textos sem acentos e em letras min˙scula
 &nbsp;
 &nbsp;
 Desenvolvedor: RA (Ricardo Andrade)
-Vers„o: 3.0.0 Final
+Vers√£o: 3.0.0 Final
