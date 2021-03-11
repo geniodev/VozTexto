@@ -31,14 +31,10 @@ pip install PyAudio
 # Documentação - Fórmulas:</br>
 
 #### Remove acentos das strings inseridas no 'txt'
-> ```python
-remover_acentos(txt)
-```
+> `remover_acentos(txt)`
 
 #### Ouvi a fala de voz e retorna o texto sem acentos
-> `python
-ListenWorkd()
-`
+> `ListenWorkd()`
 
 #### Fala a hora Atual e minutos
 > `python
