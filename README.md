@@ -6,6 +6,10 @@
 Biblioteca para interação de Voz para Texto ou de Texto para Voz</br>
 
 &nbsp;
+Obs: Funciona Apenas com Internet!
+
+
+&nbsp;
 &nbsp;
 
 *Índices*
