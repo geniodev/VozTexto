@@ -44,8 +44,8 @@ Ouvi a Fala e retorna o que foi dito em textos sem acentos e em letras minúscul
 > `OuvirFala()`
 
 #### Texto para Voz
-**Cria uma fala usando texto digitado.**
-**falaragora: Texto a ser falado STR**
+###### Cria uma fala usando texto digitado.
+###### falaragora: Texto a ser falado STR
 > `falag(falaragora)`
 
 
