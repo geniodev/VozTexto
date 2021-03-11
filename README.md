@@ -7,7 +7,8 @@ Biblioteca para interação de Voz para Texto ou de Texto para Voz</br>
 
 &nbsp;
 &nbsp;
-<h1 style="align='center' ">Índices</h1>
+
+<h1 style="text-align: center;">Índices</h1>
 &nbsp;
 - <a href="https://github.com/geniodev/VozTexto#voztexto" target="_self">Inicio</a>
 - <a href='https://github.com/geniodev/VozTexto#bibliotecas-instalar' target='_self'>Bibliotecas Install</a>
