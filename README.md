@@ -27,8 +27,9 @@ pip install unicodedata
 ```bash
 pip install PyAudio
 ```
-# Documentação - Fórmulas:</br>
 &nbsp;
+# Documentação - Fórmulas:</br>
+
 #### Remove acentos das strings inseridas no 'txt'
 > `python
 remover_acentos(txt)
