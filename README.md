@@ -1,4 +1,4 @@
-# VozTexto
+<h1 id="topo">VozTexto</h1>
 ![](https://github.com/geniodev/VozTexto/blob/main/speech.png?raw=true)</br>
 &nbsp;
 *Voz para Texto, Texto para Voz Usando Google Speech*</br>
@@ -10,7 +10,7 @@ Biblioteca para interação de Voz para Texto ou de Texto para Voz</br>
 
 &nbsp;
 &nbsp;
-*Bibliotecas Instalar*
+<h1 id="install">Bibliotecas Instalar</h1>
 &nbsp;
 ```bash
 pip install SpeechRecognition
@@ -28,22 +28,23 @@ pip install unicodedata
 pip install PyAudio
 ```
 &nbsp;
-# Documentação - Fórmulas:</br>
+<h1 id="formulas">Documentação - Fórmulas:</h1></br>
 
-#### Remove acentos das strings inseridas no 'txt'
+<h4 id="removeacento">Remove acentos das strings inseridas no 'txt'</h4>
 > `remover_acentos(txt)`
 
-#### Ouvi a fala de voz e retorna o texto sem acentos
+
+<h4 id="voztexto">Ouvi a fala de voz e retorna o texto sem acentos</h4>
 > `ListenWorkd()`
 
-#### Fala a hora Atual e minutos
+<h4 id="falarhora">Fala a hora Atual e minutos</h4>
 > `Falarhora()`
 
-#### Voz para Texto
+<h4 id="ouvirfala">Voz para Texto</h4>
 Ouvi a Fala e retorna o que foi dito em textos sem acentos e em letras minúsculas
 > `OuvirFala()`
 
-#### Texto para Voz
+<h4 id="textofala">Texto para Voz</h4>
 ###### Cria uma fala usando texto digitado.
 ###### falaragora: Texto a ser falado STR
 > `falag(falaragora)`
