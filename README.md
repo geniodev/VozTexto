@@ -1,6 +1,8 @@
 # VozTexto
 ![](https://github.com/geniodev/VozTexto/blob/main/speech.png?raw=true)
+&nbsp;
 **Voz para Texto, Texto para Voz Usando Google Speech**
+&nbsp;
 Biblioteca para interação de Voz para Texto ou de Texto para Voz
 
 ###Bibliotecas Instalar
