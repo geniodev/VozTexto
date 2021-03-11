@@ -9,6 +9,7 @@ Biblioteca para interação de Voz para Texto ou de Texto para Voz</br>
 &nbsp;
 **Índices**
 - ![Inicio](https://github.com/geniodev/VozTexto#voztexto)</br>
+- <a href="https://github.com/geniodev/VozTexto#voz-para-texto" target="_self">Testeeee</a>
 - ![Bibliotecas Install](https://github.com/geniodev/VozTexto#bibliotecas-instalar)</br>
 - ![Documetancao](https://github.com/geniodev/VozTexto#documenta%C3%A7%C3%A3o---f%C3%B3rmulas)</br>
   - ![Remove acentos das strings inseridas no 'txt'](https://github.com/geniodev/VozTexto#remove-acentos-das-strings-inseridas-no-txt)</br>
@@ -24,7 +25,7 @@ Biblioteca para interação de Voz para Texto ou de Texto para Voz</br>
 
 
 
-<a href="https://github.com/geniodev/VozTexto#voz-para-texto" target="_self">Testeeee</a>
+
 
 &nbsp;
 &nbsp;
